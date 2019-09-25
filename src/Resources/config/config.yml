@@ -1,0 +1,10 @@
+
+huh_encore:
+  encore:
+    entries:
+      - { name: contao-webpack-bundle, requiresCss: true, head: false, file: "vendor/jlinn/contao-webpack-bundle/src/Resources/public/js/contao-webpack-bundle.js" }
+    legacy:
+      js:
+        - contao-webpack-bundle
+      css:
+        - contao-webpack-bundle
