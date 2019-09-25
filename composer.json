@@ -28,16 +28,16 @@
         "symfony/phpunit-bridge": "^3.2"
     },
     "extra": {
-        "contao-manager-plugin": "Pronego\\ContaoWebpackBundle\\ContaoManager\\Plugin"
+        "contao-manager-plugin": "Jlinn\\ContaoWebpackBundle\\ContaoManager\\Plugin"
     },
     "autoload": {
         "psr-4": {
-            "Pronego\\ContaoWebpackBundle\\": "src/"
+            "Jlinn\\ContaoWebpackBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Pronego\\ContaoWebpackBundle\\Tests\\": "tests/"
+            "Jlinn\\ContaoWebpackBundle\\Tests\\": "tests/"
         }
     }
 }
