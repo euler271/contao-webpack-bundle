@@ -7,7 +7,7 @@
  *
  */
 
-namespace Jlinn\ContaoKixBundle;
+namespace Jlinn\ContaoWebpackBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
