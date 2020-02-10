@@ -1,6 +1,6 @@
 # Contao Webpack Bundle
 
-Contao Webpack Bundle Readme..
+This is a skeleton bundle for use with heimrichhannot's "contao encore bundle". It's only purpose is to speed up the creation of new Webpack entries for your Contao CMS. Follow the instructions in https://github.com/heimrichhannot/contao-encore-bundle and use this bundle for organizing your styles & javascript.
 
 ## Install
 
